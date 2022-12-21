@@ -1,0 +1,17 @@
+let msqyl = require("mysql")
+
+let connection = mysql.createConnection({
+    host: "sdhfksjf",
+    user: "alskjd",
+    password: "as;lkdjf",
+    database: "asdf",
+    root: "asdf"
+})
+
+module.exports = connection
+
+/* FOR YOUSIF --> MY AWS IS NOT LETTING ME SIGN IN.
+ I TRIED SENDING THE MFA CODE 3 TIMES AND WOULDNT WORK. I WILL KEEP TRYING BU MAY NOT BE ABLE TO
+ ESTABLISH AN ACTUAL CONNECTION BUT I LISTED THE CODING SO YOU OCOULD ATLEAST SEE IT.
+ ALSO! THE TUTORIAL FOR GETTING THE FREE VERSION OF BEEKEEPER WASNT FOR WINDOWS AND I TRIED DOWNLOADING BUT CHROME WASNT
+ ACCEPTING AND I COULDNT FIGURE IT OUT--SORRY! */
