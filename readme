@@ -1,5 +1,8 @@
 
-You will be a backend to manage some "entity". Such as: Recipes, books, ToDoList, movies ....
+Note added for you on db file.
+
+
+Chose backend: Recipes
 
 10 pts for having a connection to the database
 10 pts if you have a seperate controller file
